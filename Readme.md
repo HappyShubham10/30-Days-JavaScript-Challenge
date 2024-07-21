@@ -35,3 +35,17 @@ On the first day, I learned about variables and data types in JavaScript. Unders
 <br/>
 
 ![Day 1: Variables & Data Types](./Images/Day%201.PNG)
+
+## Day 2: Operators
+
+On the second day of the 30-Day JavaScript Challenge, I focused on understanding and using various operators in JavaScript. These operators are crucial for performing calculations, making comparisons, and controlling the flow of logic in programs.
+
+### Key Concepts Covered
+
+- **Arithmetic and Assignment Operators** - Perform basic calculations and modify variable values.
+- **Comparison and Logical Operators** - Compare values and combine conditions.
+- **Ternary Operator** - Use for concise conditional expressions.
+
+<br/>
+
+![Day 2: Operators](./Images/Day%202.PNG)
